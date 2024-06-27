@@ -5,12 +5,12 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: MPLib.js
-    url: mplibjs/
-    weight: 20
   - name: Documentation
     url: docs/
     weight: 20
+  - name: MPLib.js
+    url: mplibjs/
+    weight: 25
   - name: Blog
     url: blog/
     weight: 30
