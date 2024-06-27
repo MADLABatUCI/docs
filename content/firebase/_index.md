@@ -1,6 +1,6 @@
 ---
-linkTitle: MPLib.js
-title: MultiPlayer JS Library (MPLIB.js)
+linkTitle: Firebase
+title: Set up Firebase
 ---
 
 👋 Welcome to the MultiPlayer JavaScript Library!

@@ -1,6 +1,6 @@
 ---
-linkTitle: MPLib.js
-title: MultiPlayer JS Library (MPLIB.js)
+linkTitle: Experiment Template
+title: Create an Experiment
 ---
 
 👋 Welcome to the MultiPlayer JavaScript Library!
