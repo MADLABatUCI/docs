@@ -16,11 +16,11 @@ Instructions to sign up:
 
 Click to open [Google Developers website](https://developers.google.com/)
 
-### Configure your new site
+### Click on the "Sign in" button in the top-right corner
 
 [Configure your site name, description, and menu.](https://docs.hugoblox.com/tutorial/blog/)
 
-### Add your content
+### If you don't have a Google account, create one by clicking "Create account". Otherwise, sign in with your exisiting Google account.
 
 [Edit the homepage and add your documentation pages.](https://docs.hugoblox.com/tutorial/blog/)
 

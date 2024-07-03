@@ -1,5 +1,6 @@
 ---
 linkTitle: Firebase
+toc: true
 title: Set up Firebase
 ---
 
