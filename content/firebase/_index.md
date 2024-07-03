@@ -1,7 +1,9 @@
 ---
 linkTitle: Firebase
-toc: true
 title: Set up Firebase
+toc: true
+reading_time: false
+pager: false
 ---
 
 👋 Welcome to the MultiPlayer JavaScript Library!
