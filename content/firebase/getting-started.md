@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Getting Started
 date: 2024-07-01
 weight: 1

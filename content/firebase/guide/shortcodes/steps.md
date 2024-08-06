@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Steps Shortcode
 linkTitle: Steps
 ---

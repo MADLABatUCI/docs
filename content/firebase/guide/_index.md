@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Guide
 weight: 2
 sidebar:

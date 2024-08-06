@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Cards Shortcode
 linkTitle: Cards
 ---

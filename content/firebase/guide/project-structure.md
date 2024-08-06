@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Project Structure
 weight: 1
 ---
