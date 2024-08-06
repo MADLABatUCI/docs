@@ -1,5 +1,7 @@
 ---
 linkTitle: Firebase
+layout: list
+#type: docs
 title: Set up Firebase
 toc: true
 reading_time: false
