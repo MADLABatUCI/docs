@@ -1,4 +1,5 @@
 ---
+type: docs
 linkTitle: Reference
 title: Reference
 ---

@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Customizing Hugo
 linkTitle: Customization
 weight: 1

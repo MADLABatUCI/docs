@@ -2,8 +2,8 @@
 type: docs
 title: Guide
 weight: 2
-sidebar:
-  open: true
+#sidebar:
+#  open: true
 ---
 
 {{< cards >}}
