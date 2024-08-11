@@ -7,10 +7,6 @@
 {{- $root_section := cond (eq site.Home.Type "docs") site.Home $context.FirstSection -}}
 {{- $page_url := $context.RelPermalink -}}
 
-<div>
-  Testing to see if this works!!! sidebar.html
-</div>
-
 {{/* Only replace explicit mobile menu links with automated links for Docs pages */}}
 {{ if not $no_sidebar }}
   {{/* Classes appended to `hb-sidebar-mobile-menu` are modified via sidebar JS, so do not @apply them to `hb-sidebar-mobile-menu` */}}
