@@ -1,6 +1,6 @@
 ---
 type: docs
-title: About
+title: Introduction
 date: 2024-07-01
 weight: 1
 ---

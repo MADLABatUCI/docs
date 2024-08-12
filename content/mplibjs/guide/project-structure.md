@@ -4,6 +4,20 @@ title: Project Structure
 weight: 1
 ---
 
+## Update Made
+Python
+```python
+def someFunction():
+  print("hello")
+```
+
+```javascript
+function () {
+  console.log("something");
+}
+```
+
+
 ## Folder Structure
 
 There are **4 main folders for Hugo-based sites**:
