@@ -14,18 +14,18 @@ main:
   - name: MPLib.js
     url: mplibjs/
     weight: 30
-  - name: Documentation
-    url: docs/
-    weight: 80
-  - name: Blog
-    url: blog/
-    weight: 85
+  #- name: Documentation
+  #  url: docs/
+  #  weight: 80
+  #- name: Blog
+  #  url: blog/
+  #  weight: 85
   - name: Examples
     url: examples/
     weight: 90
-  - name: Community
-    url: community/
-    weight: 95
+  #- name: Community
+  #  url: community/
+  #  weight: 95
 
 sidebar:
   - identifier: more
