@@ -1,4 +1,5 @@
 ---
+type: docs
 linkTitle: MPLib.js
 title: MultiPlayer JS Library (MPLIB.js)
 ---
@@ -14,5 +15,5 @@ This site serves as documenation for how to use the MultiPlayer JavaScript Libra
 ## Next
 
 {{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Learn how to make multiplayer online experiments!" >}}
+  {{< card url="about" title="About MPLib.js" icon="document-text" subtitle="Learn about the first **serverless** multiplayer gaming research library!" >}}
 {{< /cards >}}

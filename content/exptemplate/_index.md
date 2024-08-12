@@ -1,4 +1,5 @@
 ---
+type: docs
 linkTitle: Experiment Template
 title: Create an Experiment
 ---
