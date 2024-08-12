@@ -1,6 +1,6 @@
 ---
 title: Showcase
-description: "Docs websites powered by Hugo Blox."
+description: "MADLAB Docs websites powered by Hugo Blox."
 type: landing
 
 
@@ -8,15 +8,15 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Get Inspirated
-      text: 'Get inspired by exploring sites #MadeWithHugoBlox'
+      title: Packages/Libraries
+      text: 'View examples from packages and libraries created by the MADLAB group'
       primary_action:
-        icon: brands/x
-        text: Submit Your Site
-        url: "https://twitter.com/intent/tweet?text=I%27m%20creating%20a%20beautiful%20website%20using%20the%20free%20%E2%9D%A4%EF%B8%8F%2C%20open%20source%20Hugo%20Blox%20Website%20Builder%20for%20%40GoHugoIO%20by%20%40GeorgeCushen%20%40GetResearchDev%20%E2%9C%A8%20Have%20some%20feedback%3F%20Please%20comment%20%F0%9F%A4%97&hashtags=MadeWithHugoBlox&url=https://HugoBlox.com/"
+        #icon: brands/x
+        text: MADLAB Website
+        url: "https://steyvers.socsci.uci.edu/madlab/"
       secondary_action:
-        text: Explore More on HugoBlox.com
-        url: https://hugoblox.com/creators/
+        text: Dr. Mark Steyvers (MADLAB P.I.)
+        url: https://steyvers.socsci.uci.edu/
     design:
       no_padding: true
       spacing:
@@ -24,11 +24,25 @@ sections:
         margin: [0, 0, 0, 0]
   - block: collection
     content:
+      title: 'MPLib.js'
+      text: 'Multiplayer Gaming Library'
       filters:
         folders:
           - examples
+        tag: 'mplib'
     design:
       view: card
       spacing:
         padding: ['3rem', 0, '6rem', 0]
+  #- block: collection
+  #  content:
+  #    title: Testing
+  #    subtitle: More Test
+  #    filters:
+  #      folders:
+  #        - examples
+  #  design:
+  #    view: card
+  #    spacing:
+  #      padding: ['3rem', 0, '6rem', 0]
 ---
