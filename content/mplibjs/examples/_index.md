@@ -114,7 +114,7 @@ sections:
   <a href="https://madlabatuci.github.io/mplib/examples/virtualworld/virtualworld.html" target="_blank" rel="noopener" class="mb-5">
     <div class="md:flex">
       <div class="md:flex-shrink-0 overflow-hidden">
-        <img class="example-image h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/images/mplib/virtual3dworld.png" height="655" width="655" alt="Virtual 3D World">
+        <img class="example-image h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/mplib/virtual3dworld.png" height="655" width="655" alt="Virtual 3D World">
       </div>
       <div class="p-8">
         <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">
@@ -134,7 +134,7 @@ sections:
   <a href="https://madlabatuci.github.io/mplib/examples/groupestimation/groupestimation.html" target="_blank" rel="noopener" class="mb-5">
     <div class="md:flex">
       <div class="md:flex-shrink-0 overflow-hidden">
-        <img class="example-image h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/images/mplib/groupestimation.png" height="655" width="655" alt="Group Estimation">
+        <img class="example-image h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/mplib/groupestimation.png" height="655" width="655" alt="Group Estimation">
       </div>
       <div class="p-8">
         <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">

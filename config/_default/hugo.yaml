@@ -4,7 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "MADLAB Docs" # Website name
-baseURL: 'https://madlabatuci.github.io/docs/' # Website URL
+baseURL: 'https://madlabatuci.github.io/' # Website URL
+#canonifyURLs: true
+#relativeURLs: true
 
 ############################
 ## PAGE OPTIONS
