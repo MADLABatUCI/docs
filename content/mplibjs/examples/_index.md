@@ -54,7 +54,7 @@ sections:
   <a href="https://madlabatuci.github.io/mplib/examples/pong/mppong.html?minPlayersNeeded=2&amp;maxPlayersNeeded=2&amp;fps=60" target="_blank" rel="noopener" class="mb-5">
     <div class="md:flex">
       <div class="md:flex-shrink-0 overflow-hidden">
-        <img class="example-image h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/examples/mplib/pong/featured_hu988810635397498749.webp" height="655" width="655" alt="2-Player Pong">
+        <img class="example-image h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/examples/mplib/pong/featured.png" height="655" width="655" alt="2-Player Pong">
       </div>
       <div class="p-8">
         <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">
@@ -74,7 +74,7 @@ sections:
   <a href="https://madlabatuci.github.io/mplib/examples/gridworld/gridworld.html" target="_blank" rel="noopener" class="mb-5">
     <div class="md:flex">
       <div class="md:flex-shrink-0 overflow-hidden">
-        <img class="example-image h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/examples/mplib/gridworld/featured_hu7176210542438220876.webp" height="655" width="655" alt="Grid World">
+        <img class="example-image h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/examples/mplib/gridworld/featured.png" height="655" width="655" alt="Grid World">
       </div>
       <div class="p-8">
         <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">
@@ -94,7 +94,7 @@ sections:
   <a href="https://madlabatuci.github.io/mplib/examples/tictactoe/tictactoe.html" target="_blank" rel="noopener" class="mb-5">
     <div class="md:flex">
       <div class="md:flex-shrink-0 overflow-hidden">
-        <img class="example-image h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/examples/mplib/tictactoe/featured_hu12096271235064709593.webp" height="655" width="655" alt="Tic-Tac-Toe">
+        <img class="example-image h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/examples/mplib/tictactoe/featured.png" height="655" width="655" alt="Tic-Tac-Toe">
       </div>
       <div class="p-8">
         <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">
@@ -114,7 +114,7 @@ sections:
   <a href="https://madlabatuci.github.io/mplib/examples/virtualworld/virtualworld.html" target="_blank" rel="noopener" class="mb-5">
     <div class="md:flex">
       <div class="md:flex-shrink-0 overflow-hidden">
-        <img class="example-image h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/examples/mplib/virtual3dworld/featured_hu10796603660131407852.webp" height="655" width="655" alt="Virtual 3D World">
+        <img class="example-image h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/examples/mplib/virtual3dworld/featured.png" height="655" width="655" alt="Virtual 3D World">
       </div>
       <div class="p-8">
         <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">
@@ -134,7 +134,7 @@ sections:
   <a href="https://madlabatuci.github.io/mplib/examples/groupestimation/groupestimation.html" target="_blank" rel="noopener" class="mb-5">
     <div class="md:flex">
       <div class="md:flex-shrink-0 overflow-hidden">
-        <img class="example-image h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/examples/mplib/groupestimation/featured_hu7390973671196940635.webp" height="655" width="655" alt="Group Estimation">
+        <img class="example-image h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/examples/mplib/groupestimation/featured.png" height="655" width="655" alt="Group Estimation">
       </div>
       <div class="p-8">
         <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">
