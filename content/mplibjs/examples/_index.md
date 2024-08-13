@@ -121,20 +121,6 @@ weight: 1
   </a>
 </div>
 
-<div class="my-12">
-    {{ $image := resources.Get "/media/logo.png" }}
-    <img src="{{ $image.RelPermalink }}" alt="" class="w-96">
-</div>
-
-{{ with .Site.GetPage "/images" }}
-  {{ range .Pages }}
-    {{ .Content }}
-    {{ range .Resources.ByType "image" }}
-      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
-    {{ end }}
-  {{ end }}
-{{ end }}
-
 {{< cards >}}
   {{< card url="project-structure" title="Project Structure" icon="document-duplicate" >}}
   {{< card url="configuration" title="Configuration" icon="adjustments-vertical" >}}
