@@ -4,36 +4,6 @@ title: Examples
 weight: 1
 #sidebar:
 #  open: true
-
-sections:
-  - block: hero
-    content:
-      title: Packages/Libraries
-      text: 'View examples from packages and libraries created by the MADLAB group'
-      primary_action:
-        #icon: brands/x
-        text: MADLAB Website
-        url: "https://steyvers.socsci.uci.edu/madlab/"
-      secondary_action:
-        text: Dr. Mark Steyvers (MADLAB P.I.)
-        url: https://steyvers.socsci.uci.edu/
-    design:
-      no_padding: true
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
-  - block: collection
-    content:
-      title: 'MPLib.js'
-      text: 'Multiplayer Gaming Library'
-      filters:
-        folders:
-          - examples
-        tag: 'mplib'
-    design:
-      view: card
-      spacing:
-        padding: ['3rem', 0, '6rem', 0]
 ---
 
 <style>
@@ -134,7 +104,7 @@ sections:
   <a href="https://madlabatuci.github.io/mplib/examples/groupestimation/groupestimation.html" target="_blank" rel="noopener" class="mb-5">
     <div class="md:flex">
       <div class="md:flex-shrink-0 overflow-hidden">
-        <img class="example-image h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/mplib/groupestimation.png" height="655" width="655" alt="Group Estimation">
+        <img class="example-image h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" src="/mplib/groupestimation.png" alt="Group Estimation">
       </div>
       <div class="p-8">
         <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">
@@ -149,6 +119,11 @@ sections:
       </div>
     </div>
   </a>
+</div>
+
+<div class="my-12">
+    {{ $image := resources.Get "/media/images/groupestimation.png" }}
+    <img src="{{ $image.RelPermalink }}" alt="" class="w-96">
 </div>
 
 {{< cards >}}
