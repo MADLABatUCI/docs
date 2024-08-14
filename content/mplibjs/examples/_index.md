@@ -24,7 +24,7 @@ weight: 1
   <a href="https://madlabatuci.github.io/mplib/examples/pong/mppong.html?minPlayersNeeded=2&amp;maxPlayersNeeded=2&amp;fps=60" target="_blank" rel="noopener" class="mb-5">
     <div class="md:flex">
       <div class="md:flex-shrink-0 overflow-hidden">
-        <img class="example-image h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/imgs/mplib/pong.png" height="655" width="655" alt="2-Player Pong">
+        <img class="example-image h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="/docs/imgs/mplib/pong.png" height="655" width="655" alt="2-Player Pong">
       </div>
       <div class="p-8">
         <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">
