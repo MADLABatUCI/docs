@@ -3,6 +3,8 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+i_am_a_sponsor: true
+
 # Appearance
 appearance:
   mode: light
@@ -49,7 +51,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company. This work is licensed under {license}'
+    notice: '© {year} MADLAB at UCI' #. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

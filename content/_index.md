@@ -1,4 +1,9 @@
 ---
+# Special NOTE:
+#   When launching locally, make sure to launch with the command
+#     hugo server -b localhost/docs/
+#   This will ensure that the paths for images/files will sync
+#   when editting locally and pushing remotely.
 title: 'Home'
 date: 2023-10-24
 type: landing
@@ -53,7 +58,7 @@ sections:
             Collaborations
     design:
       # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-800"
+      css_class: "bg-gray-400 dark:bg-gray-800"
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
@@ -61,7 +66,13 @@ sections:
   #  content:
   #    #title: 'Test'
   #    #subtitle: 'Testing'
-  #    text: <img src="https://faculty.sites.uci.edu/steyvers/files/2019/07/logo5.png" />
+  #    text: <img src="/docs/imgs/logo-old2.png" />
+  #  design:
+  #    # Section background color (CSS class)
+  #    #zcss_class: "bg-gray-100 dark:bg-gray-800"
+  #    # Reduce spacing
+  #    spacing:
+  #      padding: ["1rem", 0, "1rem", 0]
   #    #text: **Testing** # ![image](https://faculty.sites.uci.edu/steyvers/files/2019/07/logo5.png) # Add any **markdown** formatted #content here - text, images, videos, galleries - and even HTML code!
   #  design:
   #    # See Page Builder docs for all section customization options.
